@@ -1,15 +1,39 @@
 {
   "current_picks": [
     {
-      "ticker": "TSLA",
-      "entry_price": 415.88,
-      "date": "2026-06-02"
+      "ticker": "S",
+      "entry_price": 17.81,
+      "date": "2026-06-02",
+      "reason": "Selected based on high volatility and momentum in the tech sector.",
+      "target_price": null,
+      "sources": []
     },
     {
-      "ticker": "PLTR",
-      "entry_price": 160.65,
-      "date": "2026-06-02"
+      "ticker": "ABNB",
+      "entry_price": 137.87,
+      "date": "2026-06-02",
+      "reason": "Selected based on high volatility and momentum in the tech sector.",
+      "target_price": null,
+      "sources": []
     }
   ],
-  "history": []
+  "history": [
+    {
+      "date": "2026-06-02",
+      "picks": [
+        {
+          "ticker": "TSLA",
+          "entry_price": 415.88,
+          "close_price": 415.88,
+          "pnl_pct": "+0.00%"
+        },
+        {
+          "ticker": "PLTR",
+          "entry_price": 160.65,
+          "close_price": 160.65,
+          "pnl_pct": "-0.00%"
+        }
+      ]
+    }
+  ]
 }
