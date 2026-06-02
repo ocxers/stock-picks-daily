@@ -1,0 +1,15 @@
+{
+  "current_picks": [
+    {
+      "ticker": "TSLA",
+      "entry_price": 415.88,
+      "date": "2026-06-02"
+    },
+    {
+      "ticker": "PLTR",
+      "entry_price": 160.65,
+      "date": "2026-06-02"
+    }
+  ],
+  "history": []
+}
