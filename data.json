@@ -1,15 +1,15 @@
 {
   "current_picks": [
     {
-      "ticker": "CRWD",
-      "entry_price": 782.17,
+      "ticker": "AMBA",
+      "entry_price": 75.67,
       "date": "2026-06-02",
-      "reason": "Recent analyst attention: # CrowdStrike (CRWD) Stock Forecast & Price Target. ## CrowdStrike - Analysts' Recommendations and Stock Price Forecast (2026). Based on **51** Wall Street analysts who have issued ratings for CrowdSt...",
+      "reason": "Recent analyst attention: # AMBA Stock Forecast: Ambarella, Inc. Price Predictions for 2026. (AMBA) Stock Forecast & Price Prediction. ## AMBA Stock Forecast 2026-2027. ### Distance to AMBA Price Targets. ### AMBA Price Moment...",
       "target_price": null,
       "sources": [
-        "https://www.marketbeat.com/stocks/NASDAQ/CRWD/forecast",
-        "https://www.barchart.com/story/news/1744126/crowdstrike-stock-analyst-estimates-ratings",
-        "https://www.benzinga.com/quote/CRWD/analyst-ratings"
+        "https://tickernerd.com/stock/amba-forecast",
+        "https://public.com/stocks/amba/forecast-price-target",
+        "https://finance.yahoo.com/news/ambarella-amba-gets-bullish-ratings-050544352.html"
       ]
     },
     {
@@ -20,12 +20,29 @@
       "target_price": null,
       "sources": [
         "https://www.marketbeat.com/stocks/NASDAQ/PLTR/forecast",
-        "https://www.alphaspread.com/market-news/analyst-ratings/citi-upgrades-palantir-stock-to-buy-and-raises-2026-price-target",
-        "https://www.benzinga.com/quote/PLTR/analyst-ratings"
+        "https://www.benzinga.com/quote/PLTR/analyst-ratings",
+        "https://www.zacks.com/stock/research/PLTR/price-target-stock-forecast"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-02",
+      "picks": [
+        {
+          "ticker": "CRWD",
+          "entry_price": 782.17,
+          "close_price": 782.17,
+          "pnl_pct": "-0.00%"
+        },
+        {
+          "ticker": "PLTR",
+          "entry_price": 160.65,
+          "close_price": 160.65,
+          "pnl_pct": "-0.00%"
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "picks": [
