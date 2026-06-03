@@ -1,31 +1,48 @@
 {
   "current_picks": [
     {
-      "ticker": "AMBA",
-      "entry_price": 75.67,
-      "date": "2026-06-02",
-      "reason": "Recent analyst attention: # AMBA Stock Forecast: Ambarella, Inc. Price Predictions for 2026. (AMBA) Stock Forecast & Price Prediction. ## AMBA Stock Forecast 2026-2027. ### Distance to AMBA Price Targets. ### AMBA Price Moment...",
+      "ticker": "MARA",
+      "entry_price": 14.28,
+      "date": "2026-06-03",
+      "reason": "Recent analyst attention: # MARA Stock Forecast: MARA Holdings Inc Price Predictions for 2026. MARA Holdings Inc (MARA) Stock Forecast & Price Prediction. ## MARA Stock Forecast 2026-2027. ### Distance to MARA Price Targets. #...",
       "target_price": null,
       "sources": [
-        "https://tickernerd.com/stock/amba-forecast",
-        "https://public.com/stocks/amba/forecast-price-target",
-        "https://finance.yahoo.com/news/ambarella-amba-gets-bullish-ratings-050544352.html"
+        "https://tickernerd.com/stock/mara-forecast",
+        "https://www.marketbeat.com/stocks/NASDAQ/MARA/forecast",
+        "https://www.benzinga.com/quote/MARA/analyst-ratings"
       ]
     },
     {
-      "ticker": "PLTR",
-      "entry_price": 160.65,
-      "date": "2026-06-02",
-      "reason": "Recent analyst attention: # Palantir Technologies (PLTR) Stock Forecast & Price Target. ## Palantir Technologies - Analysts' Recommendations and Stock Price Forecast (2026). Based on **31** Wall Street analysts who have issued...",
+      "ticker": "NVDA",
+      "entry_price": 222.82,
+      "date": "2026-06-03",
+      "reason": "Recent analyst attention: # NVIDIA (NVDA)Stock Forecast & Price Target. ## NVIDIA (NVDA)Analyst Ratings. **NVIDIA (NVDA)** has been analyzed by 37 analysts, with a consensus rating of **Buy**. This aggregate rating is based on...",
       "target_price": null,
       "sources": [
-        "https://www.marketbeat.com/stocks/NASDAQ/PLTR/forecast",
-        "https://www.benzinga.com/quote/PLTR/analyst-ratings",
-        "https://www.zacks.com/stock/research/PLTR/price-target-stock-forecast"
+        "https://public.com/stocks/nvda/forecast-price-target",
+        "https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast",
+        "https://www.benzinga.com/quote/NVDA/analyst-ratings"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-03",
+      "picks": [
+        {
+          "ticker": "AMBA",
+          "entry_price": 75.67,
+          "close_price": 78.38,
+          "pnl_pct": "+3.58%"
+        },
+        {
+          "ticker": "PLTR",
+          "entry_price": 160.65,
+          "close_price": 152.17,
+          "pnl_pct": "-5.28%"
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "picks": [
