@@ -1,31 +1,48 @@
 {
   "current_picks": [
     {
-      "ticker": "MARA",
-      "entry_price": 14.28,
-      "date": "2026-06-03",
-      "reason": "Recent analyst attention: # MARA Stock Forecast: MARA Holdings Inc Price Predictions for 2026. MARA Holdings Inc (MARA) Stock Forecast & Price Prediction. ## MARA Stock Forecast 2026-2027. ### Distance to MARA Price Targets. #...",
+      "ticker": "PLTR",
+      "entry_price": 142.2,
+      "date": "2026-06-04",
+      "reason": "Recent analyst attention: Analyst John McPeake cited the ontology platform as a durable competitive moat and noted that the target implied more than 60% upside from the then-prevailing price near $137 ([MarketBeat](https://www...",
       "target_price": null,
       "sources": [
-        "https://tickernerd.com/stock/mara-forecast",
-        "https://www.marketbeat.com/stocks/NASDAQ/MARA/forecast",
-        "https://www.benzinga.com/quote/MARA/analyst-ratings"
+        "https://capital.com/en-int/market-updates/palantir-stock-forecast-02-06-2026",
+        "https://www.marketbeat.com/stocks/NASDAQ/PLTR/forecast",
+        "https://finance.yahoo.com/news/palantir-stock-buy-ahead-2026-113727433.html"
       ]
     },
     {
-      "ticker": "NVDA",
-      "entry_price": 222.82,
-      "date": "2026-06-03",
-      "reason": "Recent analyst attention: # NVIDIA (NVDA)Stock Forecast & Price Target. ## NVIDIA (NVDA)Analyst Ratings. **NVIDIA (NVDA)** has been analyzed by 37 analysts, with a consensus rating of **Buy**. This aggregate rating is based on...",
+      "ticker": "ABNB",
+      "entry_price": 133.59,
+      "date": "2026-06-04",
+      "reason": "Recent analyst attention: # ABNB Stock Forecast: Airbnb, Inc. Price Predictions for 2026. (ABNB) Stock Forecast & Price Prediction. ## ABNB Stock Forecast 2026-2027. ### Distance to ABNB Price Targets. ## Latest ABNB Stock Pri...",
       "target_price": null,
       "sources": [
-        "https://public.com/stocks/nvda/forecast-price-target",
-        "https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast",
-        "https://www.benzinga.com/quote/NVDA/analyst-ratings"
+        "https://tickernerd.com/stock/abnb-forecast",
+        "https://247wallst.com/investing/2026/05/04/oppenheimer-upgrades-airbnb-to-outperform-with-180-price-target-are-hotels-and-the-world-cup-about-to-re-rate-the-stock",
+        "https://www.benzinga.com/quote/ABNB/analyst-ratings"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-04",
+      "picks": [
+        {
+          "ticker": "MARA",
+          "entry_price": 14.28,
+          "close_price": 13.96,
+          "pnl_pct": "-2.24%"
+        },
+        {
+          "ticker": "NVDA",
+          "entry_price": 222.82,
+          "close_price": 214.75,
+          "pnl_pct": "-3.62%"
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "picks": [
