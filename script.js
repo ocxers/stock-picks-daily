@@ -13,20 +13,28 @@ document.addEventListener('DOMContentLoaded', () => {
                 picksContainer.innerHTML = data.current_picks.map(stock => `
                     <div class="stock-card">
                         <span class="ticker">${stock.ticker}</span>
-                        <span class="price">Entry: $${stock.entry_price.toFixed(2)}</span>
+                        <div class="price">Entry: $${stock.entry_price.toFixed(2)}</div>
+                        
+                        ${stock.target_price ? `<div class="target">Target: $${stock.target_price.toFixed(2)}</div>` : ''}
+                        
+                        <div class="reason-text">${stock.reason}</div>
+
+                        <div class="sources">
+                            <strong>Sources:</strong><br>
+                            ${stock.sources.map(url => `<a href="${url}" target="_blank">${new URL(url).hostname.replace('www.', '')}</a>`).join('')}
+                        </div>
                     </div>
                 `).join('');
             } else {
                 picksContainer.innerHTML = '<p>No picks available for today.</p>';
             }
 
-            // Render Yesterday's Review (History)
+            // Render All History Records
             if (data.history && data.history.length > 0) {
-                const yesterday = data.history[0];
-                historyContainer.innerHTML = `
+                historyContainer.innerHTML = data.history.map(day => `
                     <div class="stock-card">
-                        <span class="ticker">${yesterday.date}</span>
-                        ${yesterday.picks.map(pick => {
+                        <span class="ticker">${day.date}</span>
+                        ${day.picks.map(pick => {
                             const pnlClass = pick.pnl_pct.startsWith('+') ? 'pnl-positive' : 'pnl-negative';
                             return `
                                 <div style="margin-top: 10px; display: flex; justify-content: space-between;">
@@ -36,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             `;
                         }).join('')}
                     </div>
-                `;
+                `).join('');
             } else {
                 historyContainer.innerHTML = '<p>No history available yet.</p>';
             }
