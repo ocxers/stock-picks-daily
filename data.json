@@ -1,31 +1,48 @@
 {
   "current_picks": [
     {
-      "ticker": "PLTR",
-      "entry_price": 142.2,
-      "date": "2026-06-04",
-      "reason": "Recent analyst attention: Analyst John McPeake cited the ontology platform as a durable competitive moat and noted that the target implied more than 60% upside from the then-prevailing price near $137 ([MarketBeat](https://www...",
-      "target_price": null,
+      "ticker": "SHOP",
+      "entry_price": 116.04,
+      "date": "2026-06-05",
+      "reason": "Recent analyst attention: # SHOP Stock Forecast: Shopify Inc. Price Predictions for 2026. ## Latest SHOP Stock Price Targets & Analyst Predictions. ### Latest SHOP Stock Forecasts by Analyst. These are the latest 20 analyst ra...",
+      "target_price": 157.17,
       "sources": [
-        "https://capital.com/en-int/market-updates/palantir-stock-forecast-02-06-2026",
-        "https://www.marketbeat.com/stocks/NASDAQ/PLTR/forecast",
-        "https://finance.yahoo.com/news/palantir-stock-buy-ahead-2026-113727433.html"
+        "https://tickernerd.com/stock/shop-forecast",
+        "https://public.com/stocks/shop/forecast-price-target",
+        "https://www.marketbeat.com/stocks/NASDAQ/SHOP/forecast"
       ]
     },
     {
-      "ticker": "ABNB",
-      "entry_price": 133.59,
-      "date": "2026-06-04",
-      "reason": "Recent analyst attention: # ABNB Stock Forecast: Airbnb, Inc. Price Predictions for 2026. (ABNB) Stock Forecast & Price Prediction. ## ABNB Stock Forecast 2026-2027. ### Distance to ABNB Price Targets. ## Latest ABNB Stock Pri...",
+      "ticker": "COIN",
+      "entry_price": 164.13,
+      "date": "2026-06-05",
+      "reason": "Recent analyst attention: # Coinbase Global (COIN) Stock Forecast & Price Target. ## Coinbase Global - Analysts' Recommendations and Stock Price Forecast (2026). Based on **33** Wall Street analysts who have issued ratings for...",
       "target_price": null,
       "sources": [
-        "https://tickernerd.com/stock/abnb-forecast",
-        "https://247wallst.com/investing/2026/05/04/oppenheimer-upgrades-airbnb-to-outperform-with-180-price-target-are-hotels-and-the-world-cup-about-to-re-rate-the-stock",
-        "https://www.benzinga.com/quote/ABNB/analyst-ratings"
+        "https://www.marketbeat.com/stocks/NASDAQ/COIN/forecast",
+        "https://www.benzinga.com/quote/COIN/analyst-ratings",
+        "https://www.investing.com/equities/coinbase-global-consensus-estimates"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-05",
+      "picks": [
+        {
+          "ticker": "PLTR",
+          "entry_price": 142.2,
+          "close_price": 141.7,
+          "pnl_pct": "-0.35%"
+        },
+        {
+          "ticker": "ABNB",
+          "entry_price": 133.59,
+          "close_price": 133.72,
+          "pnl_pct": "+0.10%"
+        }
+      ]
+    },
     {
       "date": "2026-06-04",
       "picks": [
@@ -90,23 +107,6 @@
           "ticker": "ABNB",
           "entry_price": 137.87,
           "close_price": 137.87,
-          "pnl_pct": "-0.00%"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "picks": [
-        {
-          "ticker": "TSLA",
-          "entry_price": 415.88,
-          "close_price": 415.88,
-          "pnl_pct": "+0.00%"
-        },
-        {
-          "ticker": "PLTR",
-          "entry_price": 160.65,
-          "close_price": 160.65,
           "pnl_pct": "-0.00%"
         }
       ]
