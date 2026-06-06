@@ -2,30 +2,47 @@
   "current_picks": [
     {
       "ticker": "SHOP",
-      "entry_price": 116.04,
-      "date": "2026-06-05",
-      "reason": "Recent analyst attention: # SHOP Stock Forecast: Shopify Inc. Price Predictions for 2026. ## Latest SHOP Stock Price Targets & Analyst Predictions. ### Latest SHOP Stock Forecasts by Analyst. These are the latest 20 analyst ra...",
+      "entry_price": 109.54,
+      "date": "2026-06-06",
+      "reason": "Recent analyst attention: ## Shopify Inc Analyst Ratings. ## Shopify Analyst Ratings and Price Targets | NASDAQ:SHOP | Benzinga. Shopify Inc has a consensus price target of **$157.42** based on the ratings of **37** analysts. ...",
       "target_price": 157.17,
       "sources": [
-        "https://tickernerd.com/stock/shop-forecast",
-        "https://public.com/stocks/shop/forecast-price-target",
+        "https://www.benzinga.com/quote/SHOP/analyst-ratings",
+        "https://www.tikr.com/blog/shopify-stock-analyst-consensus-points-to-152-as-ai-commerce-position-compounds-in-2026",
         "https://www.marketbeat.com/stocks/NASDAQ/SHOP/forecast"
       ]
     },
     {
-      "ticker": "COIN",
-      "entry_price": 164.13,
-      "date": "2026-06-05",
-      "reason": "Recent analyst attention: # Coinbase Global (COIN) Stock Forecast & Price Target. ## Coinbase Global - Analysts' Recommendations and Stock Price Forecast (2026). Based on **33** Wall Street analysts who have issued ratings for...",
+      "ticker": "ABNB",
+      "entry_price": 133.54,
+      "date": "2026-06-06",
+      "reason": "Recent analyst attention: # Airbnb (ABNB) Stock Forecast & Price Target. ## Airbnb - Analysts' Recommendations and Stock Price Forecast (2026). Based on **37** Wall Street analysts who have issued ratings for Airbnb in the las...",
       "target_price": null,
       "sources": [
-        "https://www.marketbeat.com/stocks/NASDAQ/COIN/forecast",
-        "https://www.benzinga.com/quote/COIN/analyst-ratings",
-        "https://www.investing.com/equities/coinbase-global-consensus-estimates"
+        "https://www.marketbeat.com/stocks/NASDAQ/ABNB/forecast",
+        "https://public.com/stocks/abnb/forecast-price-target",
+        "https://www.etoro.com/markets/abnb"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-06",
+      "picks": [
+        {
+          "ticker": "SHOP",
+          "entry_price": 116.04,
+          "close_price": 109.54,
+          "pnl_pct": "-5.60%"
+        },
+        {
+          "ticker": "COIN",
+          "entry_price": 164.13,
+          "close_price": 152.4,
+          "pnl_pct": "-7.15%"
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "picks": [
@@ -90,23 +107,6 @@
           "ticker": "PLTR",
           "entry_price": 160.65,
           "close_price": 160.65,
-          "pnl_pct": "-0.00%"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "picks": [
-        {
-          "ticker": "S",
-          "entry_price": 17.81,
-          "close_price": 17.81,
-          "pnl_pct": "-0.00%"
-        },
-        {
-          "ticker": "ABNB",
-          "entry_price": 137.87,
-          "close_price": 137.87,
           "pnl_pct": "-0.00%"
         }
       ]
