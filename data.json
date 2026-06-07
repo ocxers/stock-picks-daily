@@ -1,31 +1,48 @@
 {
   "current_picks": [
     {
-      "ticker": "SHOP",
-      "entry_price": 109.54,
-      "date": "2026-06-06",
-      "reason": "Recent analyst attention: ## Shopify Inc Analyst Ratings. ## Shopify Analyst Ratings and Price Targets | NASDAQ:SHOP | Benzinga. Shopify Inc has a consensus price target of **$157.42** based on the ratings of **37** analysts. ...",
-      "target_price": 157.17,
+      "ticker": "AMD",
+      "entry_price": 466.38,
+      "date": "2026-06-07",
+      "reason": "Recent analyst attention: # AMD Stock Forecast: Advanced Micro Devices Inc Price Predictions for 2026. Advanced Micro Devices Inc (AMD) Stock Forecast & Price Prediction. ## AMD Stock Forecast 2026-2027. ### Distance to AMD Pr...",
+      "target_price": null,
       "sources": [
-        "https://www.benzinga.com/quote/SHOP/analyst-ratings",
-        "https://www.tikr.com/blog/shopify-stock-analyst-consensus-points-to-152-as-ai-commerce-position-compounds-in-2026",
-        "https://www.marketbeat.com/stocks/NASDAQ/SHOP/forecast"
+        "https://tickernerd.com/stock/amd-forecast",
+        "https://public.com/stocks/amd/forecast-price-target",
+        "https://www.benzinga.com/quote/AMD/analyst-ratings"
       ]
     },
     {
-      "ticker": "ABNB",
-      "entry_price": 133.54,
-      "date": "2026-06-06",
-      "reason": "Recent analyst attention: # Airbnb (ABNB) Stock Forecast & Price Target. ## Airbnb - Analysts' Recommendations and Stock Price Forecast (2026). Based on **37** Wall Street analysts who have issued ratings for Airbnb in the las...",
-      "target_price": null,
+      "ticker": "SHOP",
+      "entry_price": 109.54,
+      "date": "2026-06-07",
+      "reason": "Recent analyst attention: # Shopify Stock Forecast. ## Stock Price Forecast. The 32 analysts that cover Shopify stock have a consensus rating of \"Buy\" and an average price target of $159.66, which forecasts a 47.45% increase i...",
+      "target_price": 120.0,
       "sources": [
-        "https://www.marketbeat.com/stocks/NASDAQ/ABNB/forecast",
-        "https://public.com/stocks/abnb/forecast-price-target",
-        "https://www.etoro.com/markets/abnb"
+        "https://stockanalysis.com/stocks/shop/forecast",
+        "https://www.benzinga.com/quote/SHOP/analyst-ratings",
+        "https://www.tikr.com/blog/shopify-stock-analyst-consensus-points-to-152-as-ai-commerce-position-compounds-in-2026"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-07",
+      "picks": [
+        {
+          "ticker": "SHOP",
+          "entry_price": 109.54,
+          "close_price": 109.54,
+          "pnl_pct": "+0.00%"
+        },
+        {
+          "ticker": "ABNB",
+          "entry_price": 133.54,
+          "close_price": 133.54,
+          "pnl_pct": "-0.00%"
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "picks": [
@@ -91,23 +108,6 @@
           "entry_price": 160.65,
           "close_price": 152.17,
           "pnl_pct": "-5.28%"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "picks": [
-        {
-          "ticker": "CRWD",
-          "entry_price": 782.17,
-          "close_price": 782.17,
-          "pnl_pct": "-0.00%"
-        },
-        {
-          "ticker": "PLTR",
-          "entry_price": 160.65,
-          "close_price": 160.65,
-          "pnl_pct": "-0.00%"
         }
       ]
     }
