@@ -3,29 +3,46 @@
     {
       "ticker": "AMD",
       "entry_price": 466.38,
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "reason": "Recent analyst attention: # AMD Stock Forecast: Advanced Micro Devices Inc Price Predictions for 2026. Advanced Micro Devices Inc (AMD) Stock Forecast & Price Prediction. ## AMD Stock Forecast 2026-2027. ### Distance to AMD Pr...",
       "target_price": null,
       "sources": [
         "https://tickernerd.com/stock/amd-forecast",
-        "https://public.com/stocks/amd/forecast-price-target",
-        "https://www.benzinga.com/quote/AMD/analyst-ratings"
+        "https://www.benzinga.com/quote/AMD/analyst-ratings",
+        "https://www.marketbeat.com/stocks/NASDAQ/AMD/forecast"
       ]
     },
     {
-      "ticker": "SHOP",
-      "entry_price": 109.54,
-      "date": "2026-06-07",
-      "reason": "Recent analyst attention: # Shopify Stock Forecast. ## Stock Price Forecast. The 32 analysts that cover Shopify stock have a consensus rating of \"Buy\" and an average price target of $159.66, which forecasts a 47.45% increase i...",
-      "target_price": 120.0,
+      "ticker": "NVDA",
+      "entry_price": 205.1,
+      "date": "2026-06-08",
+      "reason": "Recent analyst attention: | 5/22/2026 | [![Image 18: Daiwa Securities Group Inc. logo](https://www.marketbeat.com/img/logos/daiwa-capital-markets-logo.png?s=thumb&v=20250910092322)](https://www.marketbeat.com/ratings/by-issuer...",
+      "target_price": null,
       "sources": [
-        "https://stockanalysis.com/stocks/shop/forecast",
-        "https://www.benzinga.com/quote/SHOP/analyst-ratings",
-        "https://www.tikr.com/blog/shopify-stock-analyst-consensus-points-to-152-as-ai-commerce-position-compounds-in-2026"
+        "https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast",
+        "https://www.benzinga.com/quote/NVDA/analyst-ratings",
+        "https://www.youtube.com/watch?v=zo_ibTL38-A"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-08",
+      "picks": [
+        {
+          "ticker": "AMD",
+          "entry_price": 466.38,
+          "close_price": 466.38,
+          "pnl_pct": "+0.00%"
+        },
+        {
+          "ticker": "SHOP",
+          "entry_price": 109.54,
+          "close_price": 109.54,
+          "pnl_pct": "+0.00%"
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "picks": [
@@ -91,23 +108,6 @@
           "entry_price": 222.82,
           "close_price": 214.75,
           "pnl_pct": "-3.62%"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "picks": [
-        {
-          "ticker": "AMBA",
-          "entry_price": 75.67,
-          "close_price": 78.38,
-          "pnl_pct": "+3.58%"
-        },
-        {
-          "ticker": "PLTR",
-          "entry_price": 160.65,
-          "close_price": 152.17,
-          "pnl_pct": "-5.28%"
         }
       ]
     }
