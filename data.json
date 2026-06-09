@@ -1,31 +1,48 @@
 {
   "current_picks": [
     {
-      "ticker": "AMD",
-      "entry_price": 466.38,
-      "date": "2026-06-08",
-      "reason": "Recent analyst attention: # AMD Stock Forecast: Advanced Micro Devices Inc Price Predictions for 2026. Advanced Micro Devices Inc (AMD) Stock Forecast & Price Prediction. ## AMD Stock Forecast 2026-2027. ### Distance to AMD Pr...",
+      "ticker": "S",
+      "entry_price": 15.75,
+      "date": "2026-06-09",
+      "reason": "Recent analyst attention: # SentinelOne (S)Stock Forecast & Price Target. ## SentinelOne (S)Analyst Ratings. **SentinelOne (S)** has been analyzed by 26 analysts, with a consensus rating of **Buy**. This aggregate rating is ba...",
       "target_price": null,
       "sources": [
-        "https://tickernerd.com/stock/amd-forecast",
-        "https://www.benzinga.com/quote/AMD/analyst-ratings",
-        "https://www.marketbeat.com/stocks/NASDAQ/AMD/forecast"
+        "https://public.com/stocks/s/forecast-price-target",
+        "https://tickernerd.com/stock/s-forecast",
+        "https://www.marketbeat.com/stocks/NYSE/S/forecast"
       ]
     },
     {
       "ticker": "NVDA",
-      "entry_price": 205.1,
-      "date": "2026-06-08",
-      "reason": "Recent analyst attention: | 5/22/2026 | [![Image 18: Daiwa Securities Group Inc. logo](https://www.marketbeat.com/img/logos/daiwa-capital-markets-logo.png?s=thumb&v=20250910092322)](https://www.marketbeat.com/ratings/by-issuer...",
+      "entry_price": 208.64,
+      "date": "2026-06-09",
+      "reason": "Recent analyst attention: # NVDA Stock Forecast 2026 - NVIDIA Price Targets & Predictions. [Skip to content](https://tickernerd.com/stock/nvda-forecast#content). ![Image 2: NVIDIA Corporation logo](https://tickernerd.com/tkn/l...",
       "target_price": null,
       "sources": [
-        "https://www.marketbeat.com/stocks/NASDAQ/NVDA/forecast",
-        "https://www.benzinga.com/quote/NVDA/analyst-ratings",
-        "https://www.youtube.com/watch?v=zo_ibTL38-A"
+        "https://tickernerd.com/stock/nvda-forecast",
+        "https://intellectia.ai/blog/nvda-stock-forecast-2026",
+        "https://www.investors.com/news/technology/nvidia-stock-nvda-q2-2026-earnings-preview"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-09",
+      "picks": [
+        {
+          "ticker": "AMD",
+          "entry_price": 466.38,
+          "close_price": 490.33,
+          "pnl_pct": "+5.14%"
+        },
+        {
+          "ticker": "NVDA",
+          "entry_price": 205.1,
+          "close_price": 208.64,
+          "pnl_pct": "+1.73%"
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "picks": [
@@ -91,23 +108,6 @@
           "entry_price": 133.59,
           "close_price": 133.72,
           "pnl_pct": "+0.10%"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "picks": [
-        {
-          "ticker": "MARA",
-          "entry_price": 14.28,
-          "close_price": 13.96,
-          "pnl_pct": "-2.24%"
-        },
-        {
-          "ticker": "NVDA",
-          "entry_price": 222.82,
-          "close_price": 214.75,
-          "pnl_pct": "-3.62%"
         }
       ]
     }
