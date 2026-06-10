@@ -1,31 +1,48 @@
 {
   "current_picks": [
     {
-      "ticker": "S",
-      "entry_price": 15.75,
-      "date": "2026-06-09",
-      "reason": "Recent analyst attention: # SentinelOne (S)Stock Forecast & Price Target. ## SentinelOne (S)Analyst Ratings. **SentinelOne (S)** has been analyzed by 26 analysts, with a consensus rating of **Buy**. This aggregate rating is ba...",
+      "ticker": "PLTR",
+      "entry_price": 132.07,
+      "date": "2026-06-10",
+      "reason": "Recent analyst attention: 2. [Palantir Technologies](/stocks/pltr). # Palantir Technologies (PLTR)Stock Forecast & Price Target. ## Palantir Technologies (PLTR)Analyst Ratings. **Palantir Technologies (PLTR)** has been analyze...",
       "target_price": null,
       "sources": [
-        "https://public.com/stocks/s/forecast-price-target",
-        "https://tickernerd.com/stock/s-forecast",
-        "https://www.marketbeat.com/stocks/NYSE/S/forecast"
+        "https://public.com/stocks/pltr/forecast-price-target",
+        "https://www.marketbeat.com/stocks/NASDAQ/PLTR/forecast",
+        "https://www.tikr.com/blog/palantir-has-fallen-31-from-its-peak-is-pltr-stock-a-buy-in-2026"
       ]
     },
     {
-      "ticker": "NVDA",
-      "entry_price": 208.64,
-      "date": "2026-06-09",
-      "reason": "Recent analyst attention: # NVDA Stock Forecast 2026 - NVIDIA Price Targets & Predictions. [Skip to content](https://tickernerd.com/stock/nvda-forecast#content). ![Image 2: NVIDIA Corporation logo](https://tickernerd.com/tkn/l...",
+      "ticker": "CRWD",
+      "entry_price": 644.93,
+      "date": "2026-06-10",
+      "reason": "Recent analyst attention: # CrowdStrike (CRWD) Stock Forecast & Price Target. ## CrowdStrike - Analysts' Recommendations and Stock Price Forecast (2026). Based on **51** Wall Street analysts who have issued ratings for CrowdSt...",
       "target_price": null,
       "sources": [
-        "https://tickernerd.com/stock/nvda-forecast",
-        "https://intellectia.ai/blog/nvda-stock-forecast-2026",
-        "https://www.investors.com/news/technology/nvidia-stock-nvda-q2-2026-earnings-preview"
+        "https://www.marketbeat.com/stocks/NASDAQ/CRWD/forecast",
+        "https://www.sahmcapital.com/news/content/crowdstrike-likely-to-report-higher-q1-earnings-these-most-accurate-analysts-revise-price-target-ahead-of-earnings-call-2026-06-03",
+        "https://stockanalysis.com/stocks/crwd"
       ]
     }
   ],
   "history": [
+    {
+      "date": "2026-06-10",
+      "picks": [
+        {
+          "ticker": "S",
+          "entry_price": 15.75,
+          "close_price": 15.24,
+          "pnl_pct": "-3.24%"
+        },
+        {
+          "ticker": "NVDA",
+          "entry_price": 208.64,
+          "close_price": 208.19,
+          "pnl_pct": "-0.22%"
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "picks": [
@@ -91,23 +108,6 @@
           "entry_price": 164.13,
           "close_price": 152.4,
           "pnl_pct": "-7.15%"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-05",
-      "picks": [
-        {
-          "ticker": "PLTR",
-          "entry_price": 142.2,
-          "close_price": 141.7,
-          "pnl_pct": "-0.35%"
-        },
-        {
-          "ticker": "ABNB",
-          "entry_price": 133.59,
-          "close_price": 133.72,
-          "pnl_pct": "+0.10%"
         }
       ]
     }
